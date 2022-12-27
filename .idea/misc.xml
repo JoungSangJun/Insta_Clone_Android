@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/drawable/insta_input_bg.xml" value="0.111" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/drawable/insta_login.xml" value="0.111" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_insta_change_profile.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_insta_join.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_insta_login.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_insta_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_insta_splash.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/insta_feed_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/insta_post_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/insta_profile_fragment.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Insta_Clone/app/src/main/res/layout/post_item.xml" value="0.22916666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
